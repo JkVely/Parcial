@@ -4,4 +4,4 @@
 
 ## **Punto 1:** *50%*
 
-[(Punto 1)[./Punto1]]
+[Punto 1](./Punto1)
